@@ -10,3 +10,5 @@ string solution(vector<string> participant, vector<string> completion) {
 	for (auto s : participant) if (part[s]) ans = s;
 	return ans;
 }
+
+
